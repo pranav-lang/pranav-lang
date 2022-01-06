@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pranav-lang
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me mail : pranav1gherde@gmail.com
 
 <!---
